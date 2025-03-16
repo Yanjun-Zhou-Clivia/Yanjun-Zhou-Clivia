@@ -1,5 +1,5 @@
 ## 👋 Hello and welcome! ❤️
----
+
 
 🎓 I’m **Yanjun Zhou**, a **Business Analyst** with **2 years of experience** in **data analytics, database management, visualization, and digital marketing**. My expertise spans **Marketing, Tech, and Finance**, where I use **SQL, Python, R, Tableau, and machine learning** to drive business impact. Currently, I’m pursuing my **MS in Business Analytics at UC Davis**, deepening my skills in **advanced analytics and strategic decision-making**.
 
@@ -9,7 +9,6 @@ This portfolio showcases my **Business Analytics, Data Science, and Digital Mark
 - **Email**: cliviazhou923@gmail.com
 - **LinkedIn**: [Yanjun (Clivia) Zhou](www.linkedin.com/in/yanjun-zhou-clivia)
 
----
 
 ## 👩‍💻 Projects
 
