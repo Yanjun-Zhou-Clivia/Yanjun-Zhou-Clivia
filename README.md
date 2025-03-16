@@ -12,14 +12,15 @@ This portfolio showcases my **Business Analytics, Data Science, and Digital Mark
 
 ## 👩‍💻 Projects
 
-### 📊 [ Finance-Chatbot: Fine-Tuning GPT-2 for Financial Q&A](#)
+### 📡[AI Conversations: Connecting Public Discourse & Research Trends](#)
+**Tools**: Python, Pandas, Web scraping, API, PRAW, NLP, NLTK, WordCloud
+This project examines AI discussions across arXiv, Reddit, and YouTube, using web scraping, APIs, and NLP to compare academic research with public discourse. It identifies key AI topics, engagement trends, and gaps in terminology and ethics between research and online discussions. 
+
+### 📈 [Finance-Chatbot: Fine-Tuning GPT-2 for Financial Q&A](#)
 **Tools**: Python, Hugging Face Transformers, PyTorch, NumPy, Pandas, Matplotlib, Plotly
 This project is using Fine-tuned OpenFinAL/GPT2_FINGPT_QA on Financial PhraseBank to enhance financial sentiment analysis, stock market insights, and investment guidance. Optimized model performance using Perplexity and BLEU scores and deployed the best-performing model for real-world applications.
 
-### 📈 [Social Media Sentiment Analysis](#)
-**Tools**: Python, Pandas, NLP, Tableau  
-- Analyzed **engagement trends** and optimized marketing strategies.
-- Achieved a **10% increase in sales** through data-driven insights.
+
 
 ### 📉 [Churn Prediction in Telecom](#)
 **Tools**: Python, Pandas, Scikit-Learn, XGBoost  
