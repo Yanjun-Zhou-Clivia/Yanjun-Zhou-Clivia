@@ -12,10 +12,9 @@ This portfolio showcases my **Business Analytics, Data Science, and Digital Mark
 
 ## 👩‍💻 Projects
 
-### 📊 [SEO & Keyword Performance Optimization](#)
-**Tools**: Google Search Console, GA4, Python, SQL, Tableau  
-- Monitored **CTR, impressions, and keyword rankings** to enhance search visibility.
-- Identified **high-intent keywords** and optimized pages to improve organic performance.
+### 📊 [ Finance-Chatbot: Fine-Tuning GPT-2 for Financial Q&A](#)
+**Tools**: Python, Hugging Face Transformers, PyTorch, NumPy, Pandas, Matplotlib, Plotly
+This project is using Fine-tuned OpenFinAL/GPT2_FINGPT_QA on Financial PhraseBank to enhance financial sentiment analysis, stock market insights, and investment guidance. Optimized model performance using Perplexity and BLEU scores and deployed the best-performing model for real-world applications.
 
 ### 📈 [Social Media Sentiment Analysis](#)
 **Tools**: Python, Pandas, NLP, Tableau  
