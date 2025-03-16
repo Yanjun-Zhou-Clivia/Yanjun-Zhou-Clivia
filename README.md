@@ -1,4 +1,4 @@
-👋 **Hello and welcome!** ❤️
+👋 # Hello and welcome! ❤️
 
 🎓 I’m **Yanjun Zhou**, a **Business Analyst** with **2 years of experience** specializing in **data analytics, database management, data visualization, and digital marketing**. My expertise spans across **Marketing, Tech, Consulting, and Finance**, where I leverage **SQL, Python, R, Tableau, and machine learning** to drive business impact and data-informed decision-making. Currently, I’m pursuing my MS in **Business Analytics** at UC Davis, further strengthening my skills in advanced analytics and strategic data applications.
 
